@@ -24,7 +24,7 @@ You should comment out all portions of your portfolio that you have not complete
 For your final milestone, explain the outcome of your project. Key details to include are:
 
 In the previous milestones, I focused on the base hexapods as well as QOL changes, such as a battery holder. H
-- What you've accomplished since your previous milestone
+
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
