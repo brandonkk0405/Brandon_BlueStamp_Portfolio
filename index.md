@@ -23,7 +23,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 For your final milestone, explain the outcome of your project. Key details to include are:
 
-In the previous milestones, I focused on the base hexapods as well as QOL changes, such as a battery holder. I also included a claw that could grip things
+In the previous milestones, I focused on the base hexapods as well as QOL changes, such as a battery holder. I also included a claw that could grip things. 
 
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
@@ -83,7 +83,7 @@ void loop() {
   remote.Update();
 }
 
-}
+}```
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
