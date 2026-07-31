@@ -23,23 +23,15 @@ You should comment out all portions of your portfolio that you have not complete
 
 For your final milestone, explain the outcome of your project. Key details to include are:
 
-In the previous milestones, I focused on the base hexapods as well as QOL changes, such as a battery holder. In this milestone, I decided to incorporate a claw that utilizes a micro servo and an ESP32 board. The servo is controlled by the bluetooth connection between my phone and the ESP32 board.
-
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
+In the previous milestones, I focused on the base hexapods as well as QOL changes, such as a battery holder. In this milestone, I decided to incorporate a claw that utilizes a micro servo and an ESP32 board. The servo is controlled by the bluetooth connection between my phone and the ESP32 board. The Arduino Nano is powered by a battery pack to make sure it does not weaken the hexapod's servos. Some challenges I faced were the screws and the WLAN module. The screws were tough to put into place, but it worked out in the end. The WLAN module was an issue since every hexapod had the same address. I got around this by making my own hexadecimal address to make sure nobody else could control my hexapod.
 
 
 # Second Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KT_2A_sWXmQ?si=uwqKORgyJwTBR19D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+
+For my second milestone, I finished the controller for the hexapod. It functions by using a wireless module to communicate with the hexapod. The hexapod can move in virtually any direction, including up and down. Some challenges I overcame were the lack of nuts. However, I was able to subsititute for these missing parts. For my final milestone, I am planning to use a micro/mini servo to power a small claw. This claw would be strong enough to hold things while the hexapod is in motion.
 
 # First Milestone
 
