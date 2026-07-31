@@ -30,7 +30,7 @@ My project consists of 18 servos, 3 of them going onto each leg. It also contain
 
 # Schematics 
 <img src="Screenshot 2026-07-06 091700.png" style="width: 50%; height: 50%; margin: 0 auto; display: block;"/>
-<img src="Screenshot 2026-07-06 091700.png" style="width: 50%; height: 50%; margin: 0 auto; display: block;"/>
+<img src="Screenshot 2026-07-31 090052.png" style="width: 50%; height: 50%; margin: 0 auto; display: block;"/>
 
 # Code
 
