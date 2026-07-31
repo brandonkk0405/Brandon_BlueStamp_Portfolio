@@ -48,6 +48,7 @@ My project consists of 18 servos, 3 of them going onto each leg. It also contain
 # Code
 
 ```c++
+// CONTROLLER CODE
 #ifndef ARDUINO_AVR_UNO
 #error Wrong board. Please choose "Arduino/Genuino Uno"
 #endif
@@ -123,6 +124,7 @@ class MyCallbacks: public BLECharacteristicCallbacks {
 }
 };
 
+// SERVO CODE
 void setup() {
   Serial.begin(115200);
 
