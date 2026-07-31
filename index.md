@@ -42,7 +42,7 @@ For my second milestone, I finished the controller for the hexapod. It functions
 My project consists of 18 servos, 3 of them going onto each leg. It also contains an acryllic frame at the top and bottom to make the base of the hexapod. Some problems I faced so far were with the screws as they were self tapping. This means I had to brute force my way through a lot of them, which took up a big chunk of my time. Another problem I faced was the fact that my battery was not a standard battery, meaning it did not fit in the standard battery holder. To get around this, I directly soldered on the battery. After making sure that the voltage was going through properly, I CADed a holder for the battery pack that would be mounted on top of the hexapod. In the future, I plan to complete the controller as well as to add a claw as my modification.
 
 # Schematics 
-<img src="Screenshot2026-07-06 091700.png" style="width: 50%; height: 50%; margin: 0 auto; display: block;"/>
+<img src="Screenshot 2026-07-06 091700.png" style="width: 50%; height: 50%; margin: 0 auto; display: block;"/>
 
 
 # Code
