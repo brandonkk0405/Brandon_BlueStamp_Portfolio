@@ -71,6 +71,7 @@ void loop() {
   remote.Update();
 }
 
+// SERVO CODE
 #include <ESP32Servo.h>
 #include <BLEDevice.h>
 #include <BLEServer.h>
@@ -124,7 +125,7 @@ class MyCallbacks: public BLECharacteristicCallbacks {
 }
 };
 
-// SERVO CODE
+
 void setup() {
   Serial.begin(115200);
 
