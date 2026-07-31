@@ -1,7 +1,7 @@
 # Hexapod
 My project is the hexapod, and it involves 18 total servos with an acryllic frame. The hexapod can be controlled remotely using wireless modules connected to both it and the controller. A big issue was the fact that the oversized battery would not fit in the battry holder. In order to solve this issue, I had to solder a direct connection for the battery.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
@@ -11,31 +11,23 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Brandon K | Valley Christian | Electrical Engineering | Incoming Sophmore |
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 <img src="IMG_1493.jpeg" style="width: 50%; height: 50%; margin: 0 auto; display: block;"/>
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QxdbVuQXoKA?si=DdLuYz5-GujQg2SR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-For your final milestone, explain the outcome of your project. Key details to include are:
 
 In the previous milestones, I focused on the base hexapods as well as QOL changes, such as a battery holder. In this milestone, I decided to incorporate a claw that utilizes a micro servo and an ESP32 board. The servo is controlled by the bluetooth connection between my phone and the ESP32 board. The Arduino Nano is powered by a battery pack to make sure it does not weaken the hexapod's servos. Some challenges I faced were the screws and the WLAN module. The screws were tough to put into place, but it worked out in the end. The WLAN module was an issue since every hexapod had the same address. I got around this by making my own hexadecimal address to make sure nobody else could control my hexapod.
 
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KT_2A_sWXmQ?si=uwqKORgyJwTBR19D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my second milestone, I finished the controller for the hexapod. It functions by using a wireless module to communicate with the hexapod. The hexapod can move in virtually any direction, including up and down. Some challenges I overcame were the lack of nuts. However, I was able to subsititute for these missing parts. For my final milestone, I am planning to use a micro/mini servo to power a small claw. This claw would be strong enough to hold things while the hexapod is in motion.
 
 # First Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UMam9Bwb8Vw?si=Nnax9ykTupBcM2Op" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
