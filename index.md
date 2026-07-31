@@ -168,13 +168,11 @@ void loop() {
   delay(10); 
 }
 
-}```
-
+}
+```
 
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs.
 
 | **Part** | **Note** | **Price** | **Link** |
 |Ardunio Nano ESP32|Claw modification|$19.30|https://store-usa.arduino.cc/products/nano-esp32-with-headers?utm_source=google&utm_medium=cpc&utm_campaign=US-Pmax&gad_source=1&gad_campaignid=21317508903&gbraid=0AAAAACbEa8495Cjbem1beiV2598e-NST7&gclid=CjwKCAjwj7HTBhBiEiwA8s35OpTt8uKWUuRZjUO3ZqYQeSm9cmyddfbugrAWl8rMDzg64-J5ipoJJBoCeHcQAvD_BwE|
